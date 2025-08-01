@@ -1,3 +1,1 @@
-# EDGE_MID_TERM
-# EDGE_MID_TERM
-# EDGE_MID_TERM
+(https://mdnazmusakib.github.io/EDGE_MID_TERM/)
